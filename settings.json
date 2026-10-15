@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sevensins.play.hosting",
-    "port": 25565,
+    "ip": "sevensins.exaroton.me",
+    "port": 12951,
     "version": "",
     "try-creative": false
   },
