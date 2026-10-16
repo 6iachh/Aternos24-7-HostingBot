@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "free1.victuscloud.com",
-    "port": 30871,
+    "ip": "sevensins.aternos.me",
+    "port": 54256,
     "version": "",
     "try-creative": false
   },
